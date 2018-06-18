@@ -1,0 +1,224 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+header {
+	background: url(../img/header-bg.png) repeat;
+	height: 323px ;
+	
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background: url(../img/background.png);
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+header>h1 {
+	padding-top: 25px;
+	padding-left: 50px;
+	font-family: Arial sans-serif;
+	font-size: 60px;
+	color: #ffffff;
+}
+
+header>p {
+	padding-top: 50px;
+	padding-left: 50px;
+	font-family: Arial sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+header>img {
+	float: right;
+	margin-right: 50px;
+	margin-bottom: 59px;
+	margin-top: 51px;
+	margin-left: 25px;
+}
+
+
+#backgr {
+	background: url(../img/bg.png);
+	height: 286px;
+}
+
+#backgr h2 {
+	padding-top: 40px;
+	padding-left: 50px;
+	font-family: Arial sans-serif;
+	font-size: 30px;
+	color: #445161;
+}
+
+#backgr p.one{
+	margin-top: 33px;
+	padding-left: 50px;
+	font-family: Arial sans-serif;
+	font-size: 16px;
+	color: #333333;
+}
+
+#backgr p.two {
+	margin-top: 21px;
+	padding-left: 50px;
+	font-family: Arial sans-serif;
+	font-size: 16px;
+	color: #333333;
+}
+
+#backgr img {
+	float: right;
+
+	
+}
+
+
+#dignity {
+height: 418px;
+}
+
+.left-items p {
+	font-family: Arial sans-serif;
+	color: #333333;
+	font-size: 16px;
+}
+.right-items p {
+	font-family: Arial sans-serif;
+	color: #333333;
+	font-size: 16px;
+}
+
+#dignity h2 {
+	padding-top: 50px;
+	padding-left: 50px;
+	text-align: center;
+	font-family: Arial sans-serif;
+	font-size: 30px;
+	color: #445161;	
+}
+
+.left-items {
+	float: left;
+	padding-left: 50px;
+	padding-top: 31px;
+}
+
+.right-items {
+	float: right;
+	padding-right: 50px;
+	padding-top: 31px;
+}
+
+#scrin {
+	background: url(../img/bg1.png);
+	height: 487px;
+}
+
+#scrin h2 {
+	padding-top: 50px;
+	padding-left: 50px;
+	text-align: center;
+	font-family: Arial sans-serif;
+	font-size: 30px;
+	color: #445161;	
+}
+.first-scrin {
+ float: left;
+}
+
+.second-scrin {
+ float: right;
+}
+.first-scrin img {
+	float: left;
+}
+.first-scrin p {
+	float: right;
+}
+
+.seccond-scrin img {
+	float: left;
+}
+.second-scrin p {
+	float: right;
+}
+#reviews {
+height: 424px;
+}
+
+#reviews h2 {
+	padding-top: 50px;
+	padding-left: 50px;
+	text-align: center;
+	font-family: Arial sans-serif;
+	font-size: 30px;
+	color: #445161;	
+}
+
+#buy {
+	background: url(../img/bg3.png);
+	height: 656px;
+}
+
+#buy h2 {
+	padding-top: 50px;
+	padding-left: 50px;
+	text-align: center;
+	font-family: Arial sans-serif;
+	font-size: 30px;
+	color: #445161;	
+}
+
+#contacts {
+	background: url(../img/b4.png);
+	height: 509px;
+}
+
+#contacts h2 {
+	padding-top: 50px;
+	padding-left: 50px;
+	text-align: center;
+	font-family: Arial sans-serif;
+	font-size: 30px;
+	color: #ffffff;	
+}
+
+footer {
+	padding-top: 10px;
+	height: 26px;
+	font: Arial sans-serif;
+	color: #445162;
+	font-size:16px; 
+	text-align: center;
+}
